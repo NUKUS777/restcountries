@@ -1,0 +1,11 @@
+.card {
+    width: 300px;
+    min-height: 400px;
+}
+.card-img-top {
+    height: 200px;
+}
+.bigbox {
+    width: 100%;
+    
+}
